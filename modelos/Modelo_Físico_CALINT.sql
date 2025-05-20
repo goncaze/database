@@ -1,4 +1,4 @@
-/* Modelo_Logico_CALINT: */
+/* Modelo_Físico_CALINT: */
 
 CREATE TABLE data (
     id INTEGER PRIMARY KEY,
